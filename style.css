@@ -1,0 +1,10 @@
+ #content {
+  background-color: blue;
+  padding: 10px;
+}
+.text {
+  font-family: impact;
+  font-size: 40px;
+  margin: auto;
+  color: white
+}
